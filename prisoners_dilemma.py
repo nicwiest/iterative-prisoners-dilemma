@@ -1,5 +1,5 @@
 from __future__ import print_function
-
+"Hey Mr. Myers (DaBombDiggity)"
 ''' 
 PrisonerDilemma.py allows hard-coding different strategies
 for the Iterative Prisoners Dilemma, the canonical game of game-theory.
